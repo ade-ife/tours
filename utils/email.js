@@ -55,3 +55,5 @@ module.exports = class Email {
     await this.send('Welcome', 'Welcome to the natours family!');
   }
 };
+
+// email handler
